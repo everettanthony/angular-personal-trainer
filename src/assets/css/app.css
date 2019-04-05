@@ -250,9 +250,7 @@ div[ng-view].ng-leave-active {
     color:white;
     margin-bottom:10px;
     background:#61b9ff;
-
 }
-
 .exercise.tile .title {
     width:inherit;
     background:#9d4a9c;
